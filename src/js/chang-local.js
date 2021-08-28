@@ -29,7 +29,7 @@ function onSearch(e) {
 }
 function enterLetters() {
   error({
-    text: '← Enter correct country name',
+    text: '← Oops something wrong on your side',
     delay: 2000,
   });
 }
